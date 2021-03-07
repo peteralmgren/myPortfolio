@@ -58,7 +58,7 @@ body{
     justify-content: center;
     margin: 0 auto;
     margin-top:5vh;
-    height: 210px;
+    height: 220px;
     width: 188px;
     border-radius: 50%;
     
@@ -93,6 +93,11 @@ body{
     height: 100px;
     width: 100px;
 }
+#bild2-analys{
+    margin-left: 2vw;
+    height: 100px;
+    width: 100px;
+}
 .analys-img{
     margin-top: 5vh;
     display: flex;
@@ -107,10 +112,7 @@ body{
     transform: scale(3);
     justify-content: center;  
 }    
-#bild2-analys{
-    height: 100px;
-    width: 100px;
-}
+
 .shoe-img{
     margin-top: 5vh;
     display: flex;
@@ -139,11 +141,13 @@ body{
     margin-bottom: 2vh;
 }
 #bild2-shoe{
+    margin-left: 2vw;
     height: 100px;
     width: 100px;
     margin-bottom: 2vh;
 }
 #bild3-shoe{
+    margin-left: 2vw;
     height: 100px;
     width: 100px;
     margin-bottom: 2vh;
