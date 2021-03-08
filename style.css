@@ -188,6 +188,7 @@ body{
 }
 footer hr{
     position: fixed; left: 1%; width: 98%;
+    border-color: black;
 }
 
 footer{
