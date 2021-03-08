@@ -60,7 +60,7 @@ body{
     margin: 0 auto;
     margin-top:5vh;
     height: 220px;
-    width: 188px;
+    width: 198px;
     border-radius: 50%;
     
 }
@@ -185,6 +185,9 @@ body{
 .headbanner img{
     object-fit: cover;
     
+}
+footer hr{
+    position: fixed; left: 1%; width: 98%;
 }
 
 footer{
