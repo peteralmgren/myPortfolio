@@ -33,6 +33,7 @@ body{
 }
 
 .navbar .right-menu{
+    display: flex;
     margin-top:3vh;
     margin-left:60vw;
 }
