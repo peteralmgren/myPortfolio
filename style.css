@@ -7,13 +7,31 @@ body{
     
 }
 
+.bg-img {
+    background-image: url("images/bgnav2.jpg");
+
+    min-height: 120px;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+    /* Needed to position the navbar */
+    position: relative;
+  }
+  .bg-img .container {
+    position: absolute;
+    margin: 20px;
+    width: auto;
+  }
 .navbar {
     display: flex;
     margin: 0;
     padding:0;
-    height:10vh;
-    background-color: black;
-    margin-bottom:-10vh;
+    height: 8vh;
+    
+    margin-bottom:-10h;
     width: 100%;
 }
 
@@ -22,9 +40,9 @@ body{
     float:left;
     padding: 0.2em 1em;
     text-transform: uppercase;
-    color:white;
+    color:black;
+    font-size: large;
 }
-
 .navbar a {
     padding: 1.6em 1em;
     text-decoration: none;
