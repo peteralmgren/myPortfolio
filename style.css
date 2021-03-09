@@ -53,9 +53,8 @@ body{
 }
 
 .navbar .right-menu{
-    margin-top:3vh;
-    margin-left:70vw;
-    position: fixed;
+    margin-left:60vw;
+    display: flex;
 }
 
 .navbar a:hover{ 
