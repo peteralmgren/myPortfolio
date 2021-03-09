@@ -54,12 +54,13 @@ body{
 
 .navbar .right-menu{
     margin-top:3vh;
-    margin-left:60vw;
+    margin-left:70vw;
+    position: fixed;
 }
 
 .navbar a:hover{ 
-    background-color: linen;
-    color: black;
+    font-weight: bolder;
+    color: linen;
 }
 
 .presentation-home{
